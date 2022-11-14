@@ -87,35 +87,35 @@ console.log(light.isOn) //--> true
 
 - What's the difference between `Array` and `Linked List`?
 
-| Compare | Array | Linked List |
-| ----------- | ----------- | |------------ |
-| Basic | Is a fixed set of elements | A large set of data arranged in some order|
-| Size | Fixed, defined at declaration | It doesn't need to be defined |
-|Sort order | Stored consecutively | Randomly stored |
-|How to access | Direct or random | Sequential access|
-|Insert and delete elements | Relatively slow due to the need to shift the array | Easy, fast and convenient |
-| Search |Binary search and linear search |Linear Search |
-| Memory | Low| Medium |
+| Compare                    | Array                                              | Linked List                                |
+| -------------------------- | -------------------------------------------------- | ------------------------------------------ |
+| Basic                      | Is a fixed set of elements                         | A large set of data arranged in some order |
+| Size                       | Fixed, defined at declaration                      | It doesn't need to be defined              |
+| Sort order                 | Stored consecutively                               | Randomly stored                            |
+| How to access              | Direct or random                                   | Sequential access                          |
+| Insert and delete elements | Relatively slow due to the need to shift the array | Easy, fast and convenient                  |
+| Search                     | Binary search and linear search                    | Linear Search                              |
+| Memory                     | Low                                                | Medium                                     |
 
 - What's the difference between `Array` and `Map`?
 
-| Compare | Array | Map |
-| ----------- | ----------- | |------------ |
-| Basic | Is a fixed set of elements | Is a data structure that maps a key (key) to the value of that key (called value)|
-| Size | Fixed, defined at declaration | It doesn't need to be defined |
-|Sort order | Stored consecutively | Randomly stored |
-|How to access | Direct or random | Direct access|
-|Insert and delete elements | Relatively slow due to the need to shift the array | Easy, fast and convenient |
-| Search |Binary search and linear search |Linear Search |
-| Memory | Low| High |
+| Compare                    | Array                                              | Map                                                                               |
+| -------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Basic                      | Is a fixed set of elements                         | Is a data structure that maps a key (key) to the value of that key (called value) |
+| Size                       | Fixed, defined at declaration                      | It doesn't need to be defined                                                     |
+| Sort order                 | Stored consecutively                               | Randomly stored                                                                   |
+| How to access              | Direct or random                                   | Direct access                                                                     |
+| Insert and delete elements | Relatively slow due to the need to shift the array | Easy, fast and convenient                                                         |
+| Search                     | Binary search and linear search                    | Linear Search                                                                     |
+| Memory                     | Low                                                | High                                                                              |
 
 - What's the difference between `Array` and `Set`?
 
-| Compare | Array | Set |
-| ----------- | ----------- | |------------ |
-| Basic | Is a fixed set of elements | Is a type of data structure used to store elements that are not duplicated and sorted in ascending or descending order|
-| Size | Fixed, defined at declaration | It doesn't need to be defined |
-| Store | Can duplicate| Only one value (=== compare) |
+| Compare | Array                         | Set                                                                                                                    |
+| ------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Basic   | Is a fixed set of elements    | Is a type of data structure used to store elements that are not duplicated and sorted in ascending or descending order |
+| Size    | Fixed, defined at declaration | It doesn't need to be defined                                                                                          |
+| Store   | Can duplicate                 | Only one value (=== compare)                                                                                           |
 
 ### Algorithms
 
