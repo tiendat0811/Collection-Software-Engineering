@@ -1,6 +1,6 @@
 ---
 title: Collection Software Engineering Intership
-date: 2022-11-08
+date: 2022-11-14
 ---
 
 # Data structures and Algorithms
@@ -102,3 +102,5 @@ date: 2022-11-08
 - What are UI libraries?
 - What is State Management?
 - Why state management required?
+
+https://writemd.xyz/d/6371b7ff26dd67981
