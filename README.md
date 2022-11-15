@@ -102,5 +102,3 @@ date: 2022-11-14
 - What are UI libraries?
 - What is State Management?
 - Why state management required?
-
-https://writemd.xyz/d/6371b7ff26dd67981
