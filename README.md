@@ -92,7 +92,7 @@ date: 2022-11-14
 - What is representational state transfer (REST)?
 - What is Restful API)? How does it work?
 - What is the difference REST API and SOAP?
-- What is the difference REST API and GrapqQL API?
+- What is the difference REST API and GraphQL API?
 - What is Hypertext Transfer Protocol (HTTP)?
 - What is the difference HTTP and HTTPS?
 
